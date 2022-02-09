@@ -13,7 +13,7 @@ NOVICE - Ghost just move on screen with a direction selected randomly.
 3.A Fruit - a digit selected randomly, that appears at random points in time on screen and travels around randomly.
 If the pacman eats the fruit it gets the points as the value of the digit.
 
-4.invisible tunnels-only for pacman !
+4.Invisible tunnels-only for pacman !
 
 5.Loading Screens from files - 
 The game would look for files in the working directory, with the names pacman_*.screen.
