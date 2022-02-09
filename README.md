@@ -2,8 +2,7 @@
 
 This project includes :
 
-1.Pacman - which moves according to the user's inputs. 
-The pacman will continue to move in this direction even if the user doesn’t press any key, as long as the pacman doesn’t hit a wall and the “STAY” key was not pressed.
+1.Pacman - which moves according to the user's choice. 
 The pacman travels on screen and “eats the breadcrumbs”. Each eaten breadcrumb equals a point to be earned.
 
 2.Ghosts - There are 3 possible levels:
