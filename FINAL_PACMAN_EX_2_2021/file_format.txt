@@ -1,0 +1,13 @@
+The project includes the foloowing classes :
+
+1.Game - Game management -contains and manage the game objects)
+2.Board - screen management and boards reading
+3.Menu - handling user input / output
+4.Game_object - base class for all game creatures
+5.pacman - manage pacman 
+6.Ghost - base class for all kinds of ghosts
+7.Fruit - manage fruit
+8.Novice_ghost - manage novice ghost
+9.Good_ghost - manage good ghost 
+10.Smart_ghost - manage smart ghost
+11.Position - manage positions for all moving creatures
